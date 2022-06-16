@@ -32,5 +32,5 @@
 - pandas
 - datetime
 - numpy
-- matplotlib.pyplot
-- scipy.stats
+- matplotlib
+- scipy
