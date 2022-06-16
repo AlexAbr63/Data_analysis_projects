@@ -26,6 +26,6 @@
 ## Используемые библиотеки
 - pandas
 - numpy
-- matplotlib
+- matplotlib (pyplot)
 - seaborn
-- scipy
+- scipy (stats)
