@@ -15,9 +15,9 @@
 
 ## Используемые библиотеки
 - pandas
-- matplotlib.pyplot
+- matplotlib
 - seaborn
 - numpy
-- plotly.graph_objects
+- plotly
 - math
-- scipy.stats
+- scipy
