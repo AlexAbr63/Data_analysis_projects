@@ -48,6 +48,6 @@
 ## Используемые библиотеки
 
 - requests
-- bs4.BeautifulSoup
+- bs4
 - pandas
-- matplotlib.pyplot
+- matplotlib
