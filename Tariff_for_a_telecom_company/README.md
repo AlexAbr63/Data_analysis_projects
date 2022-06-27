@@ -51,6 +51,6 @@
 ## Используемые библиотеки
 - pandas
 - numpy
-- matplotlib.pyplot
+- matplotlib
 - seaborn
-- scipy.stats
+- scipy

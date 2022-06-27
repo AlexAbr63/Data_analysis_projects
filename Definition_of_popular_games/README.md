@@ -29,5 +29,5 @@
 
 - pandas
 - numpy
-- matplotlib.pyplot
-- scipy.stats
+- matplotlib
+- scipy

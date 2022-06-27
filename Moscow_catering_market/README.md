@@ -24,9 +24,8 @@
 
 ## Используемые библиотеки
 - pandas
-- plotly.graph_objects
-- plotly.express
-- matplotlib.pyplot
+- plotly
+- matplotlib
 - seaborn
 - numpy
 - re

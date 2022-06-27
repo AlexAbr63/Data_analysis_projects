@@ -32,6 +32,6 @@
 ## Используемые библиотеки
 
 - pandas
-- matplotlib.pyplot
+- matplotlib
 - numpy
 - seaborn
